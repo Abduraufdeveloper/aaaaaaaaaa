@@ -1,0 +1,20 @@
+a = "ali"
+b = a.capitalize()
+print(b)                                 RUN = Ali
+
+capitalize bu bizga bosh harfni katta qilib beradi 
+_____________________________________________________________________
+
+stringni birinchi harfini olish uchun biz index() ga murojaat qilamiz
+name = "Jasur"
+print(name[0])
+qisak birinchi harfini olib beradi 
+_____________________________________________________________________
+
+Start:Stop:Step
+Masalan start biz range da ishlatamiz range(1,200,4)
+bu birinchi 1   1dan boshlanadi
+ikinchisi 200 esa stop '
+uchinchisi 4 step har bir 4 ta index tashsb chiqaradi
+agar biz listni metodsiz ogirish keark bolsa biz print(a[::-1]) 
+qisak bizga listniogirib beradi

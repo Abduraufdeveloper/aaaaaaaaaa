@@ -1,0 +1,15 @@
+_______________________________________________________________________________________
+string ga integer qoshilganda xato beradi                                              |
+_______________________________________________________________________________________|
+                                                                                       | 
+string.split() bu space ga qarab yoki vergulga yani "," ga qarabjoy tashab beradi      |
+space bilan boladigan bolsak x = string.split(" ") qilib yozamiz                       |
+agar vergul bilan boladigan bolsak x = string.split(",") qilib yozamiz                 | 
+agar nuqta bilan boladigan bolsak x = string.split(".") qilib yozamiz                  |
+_______________________________________________________________________________________|
+                                                                                       |
+"string".join(list) bu bizga har bir elementlarni orqasiga element qoshadi ishlatiladi |
+_______________________________________________________________________________________|
+                                                                                       |
+name.upper() bu bizga elementni xarflarini katta qilib beradi                          |
+name.lower() bu bizga elementni xarflarini kichkina qilin beradi                       |

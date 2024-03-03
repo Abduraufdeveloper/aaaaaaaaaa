@@ -1,0 +1,21 @@
+ _______________________________________________________________________
+|ma`lumot turlari 2 turga bo`linadi :                                   |
+|1 - o`zgaruvchi                                                        |
+|2 - o`zgarmas                                                          |
+|                                                                       |
+|_______________________________________________________________________|
+|O`zgaruvchan :                                                         |
+|list , obyect key value bilan   va   set                               |
+|_______________________________________________________________________| 
+|                                                                       |
+|O`zgarmas :                                                            |
+|typle ,  string va integer                                             |
+|                                                                       |
+|                                                                       |             ---------------------------------
+|string typle ni ichidan ma`lumot olib bolmaydi va integerdaham shunday |             | float integerni ichiga kiradi | 
+|ularni tipini ozgartirish mumkin                                       |             ---------------------------------
+|_______________________________________________________________________|                                              
+|                                                                       |
+|typle da biz for va  while da ishlatsak boladi lekin uni ozgartirib    |
+|bolmaydi listdan farqi shunda                                          |  
+|_______________________________________________________________________|

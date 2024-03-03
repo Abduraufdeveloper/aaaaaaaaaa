@@ -1,0 +1,5 @@
+while siklni toxtatish uchun murojat qilgan massivimizni ichi pustoy bolishi kerak 
+yaniy pop() yordamida whila da ishliymiz 
+__________________________________
+while oziga else qabul qiladi 
+__________________________________

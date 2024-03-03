@@ -1,0 +1,2 @@
+ Is  == bilan nirxil lekin boshqacha ishlashi mumkin == true bob chiqsa Is da esa False chiqishi mumkin yangi joy ochilmasa False qaytaradi
+ a.replace("s")

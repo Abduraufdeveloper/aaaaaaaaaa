@@ -1,0 +1,29 @@
+______________________________________________________________________________________    
+     			Objectga yonaltirilgan dasturlash tili								
+object larni ikkita xarasteristikasi bor :
+1 : bu atributlar 
+2 : hususiyatlar 	
+objectda class va nom qib object yaratiladi 
+atirbut bular classni ichidagi ozgarmas ma`lumotlar 
+class funksiya bilan bir xil yoziladi va ozirida unga ham nomini olib chaqirvoradi
+agar class nomi bilan chaqirilsa u eksemplyar deb ataladi 
+_______________________________________________________________________________________
+eksemplyar atribut nima ?
+bu self bilan chaqiriladi 
+self:name = "totiqush"
+slef:age = 2
+class atribut bu class nomi bilan chaqirilsa ishliydigan elementlar 
+eksemplyar atribut esa  faqat klassdan data qabul qiladi 
+_______________________________________________________________________________________
+
+Hususiyatlar nima 
+agar def classni ichida kelsa u class atributlari boladi 
+________________________________________________________________-______________________
+
+print(nomi(eksemplyar atribut).class atribut)
+
+init  bu constructor 
+
+eksemplyar atribut tog`ridan tog`ri class ga ta`sir qiladi 
+
+hamma tarqaydigan ma`lumOTLAR FAQAT hususiyatlarga ishlaydi 

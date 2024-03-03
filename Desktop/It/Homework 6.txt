@@ -1,0 +1,24 @@
+qfunksionalnoye programirovaniye 3 xilga bolinadi :
+1 : map 
+2 : filter 
+3 : reduce
+funksionalnoye programirovaniye bu funksiya .
+
+1 = map bu pythonni ozini funcsiya tayyor yozilgan kodlar bu 3 ta data qabul qiladi 
+map oziga list tuple qabul qiladi 
+встроенный метод va встроенный функтсия xar doim yangi joy ochib 
+map ni xar doim listda yoki tuple da ochish kk 
+print(list(map)) ,
+map listni ichidagi elementlarni ozgartirish uchun ishlatamz 
+
+
+
+
+
+2 = filter filter bu listni ichidan kkrakli narsalarni olibkelib beradi 
+filterni sharti listni ichidagi elemenlarni tekshiradi va oz ichiga func bilan iterable qabul qiladi 
+
+
+
+
+3 = reduce 
